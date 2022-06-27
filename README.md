@@ -1,7 +1,7 @@
 # Hello, world! 👋
 
 <div>
-  <img align="left" width="30%" alt="gif-drako" display="block" src="https://cdn.discordapp.com/attachments/748549245115826336/990991878004572290/picasion.com_7502d8134d39a13dc92bd8e847a0e32d.gif">
+  <img align="right" width="30%" alt="gif-drako" display="block" src="https://cdn.discordapp.com/attachments/748549245115826336/990991878004572290/picasion.com_7502d8134d39a13dc92bd8e847a0e32d.gif">
 
 <br/>
 <br/>
