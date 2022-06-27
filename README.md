@@ -15,7 +15,7 @@ Conhecimentos sólidos em HTML, CSS, JavaScript, jQuery, Firebase e Bootstrap. A
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="meu-gif" height="30" width="40" src="https://github.com/kauadeoliveira/kauadeoliveira/issues/1">
+  ![picasion com_7502d8134d39a13dc92bd8e847a0e32d](https://user-images.githubusercontent.com/98750284/175966344-a53306d9-bc57-4ea2-87f5-1b19a1f91533.gif)
 
 </div>
                                                                                                                        
