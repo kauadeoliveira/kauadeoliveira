@@ -1,12 +1,13 @@
 # Hello, world! 👋
 
-<div width="100%">
-  <img align="left" width="30%" alt="gif-drako" src="https://cdn.discordapp.com/attachments/748549245115826336/990991878004572290/picasion.com_7502d8134d39a13dc92bd8e847a0e32d.gif">
+<div>
+  <img align="left" width="30%" alt="gif-drako" display="block" src="https://cdn.discordapp.com/attachments/748549245115826336/990991878004572290/picasion.com_7502d8134d39a13dc92bd8e847a0e32d.gif">
+
 <br/>
 <br/>
 <br/>
-  <p>Tenho 18 anos e sou um curioso apaixonado por tecnologia! Estudando JavaScript há um tempo, no momento ainda estou desenvolvendo projetos pessoais, mas também em busca de oportunidades. Cada dia mais intimo e apaixonado pelo mundo Tech.
-  Conhecimentos sólidos em HTML, CSS, JavaScript, jQuery, Firebase e Bootstrap. Atualmente estudando o querido React js.</p>
+  
+  <p>Olá! tenho 18 anos, moro no interior de São Paulo e sou aluno do Igor Oliveira(famoso Programador Br). Conheci o mundo da programação em dezembro de 2021 apenas por curiosidade na época e nunca mais parei. Agora que já tenho conhecimentos sólidos em HTML, CSS e JavaScript, sigo investindo boas horas de estudos (e muito café) no nosso querido React JS.</p>
   
 <br/>
 
