@@ -7,7 +7,11 @@
 <br/>
 <br/>
   
-  <p>Olá! tenho 18 anos, moro no interior de São Paulo e sou aluno do Igor Oliveira(famoso Programador Br). Conheci o mundo da programação em dezembro de 2021 apenas por curiosidade na época e nunca mais parei. Agora que já tenho conhecimentos sólidos em HTML, CSS e JavaScript, sigo investindo boas horas de estudos (e muito café) no nosso querido React JS.</p>
+  <p>Sou estudante de Programação desde novembro de 2021, tenho experiências com alguns projetos pessoais todos estão aqui no meu repositório do Github: https://github.com/kauadeoliveira
+
+Sigo investindo horas de estudo em Desenvolvimento, estou focado em Javascript, React js, Typescript, Node js e outras diversas tecnologias que também serão importantes para a minha caminhada.
+
+Me considero muito esforçado, dedicado, otimista e com muita fome de vencer. Aprendo rápido e estou pronto para dar meu melhor e superar qualquer desafio!</p>
   
 <br/>
 
