@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 <div>
-  <img align="right" width="30%" alt="gif-drako" display="block" src="https://cdn.discordapp.com/attachments/748549245115826336/990991878004572290/picasion.com_7502d8134d39a13dc92bd8e847a0e32d.gif">
+  <img align="right" width="37%" alt="gif-drako" display="block" src="https://cdn.discordapp.com/attachments/748549245115826336/990991878004572290/picasion.com_7502d8134d39a13dc92bd8e847a0e32d.gif">
 
 <br/>  
   <p>Sou estudante de Programação desde novembro de 2021, tenho experiências com alguns projetos pessoais todos estão aqui no meu repositório do Github
@@ -17,6 +17,9 @@ Me considero muito esforçado, dedicado, otimista e com muita fome de vencer. Ap
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
   
