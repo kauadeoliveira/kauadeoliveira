@@ -8,7 +8,7 @@
 
 Sigo investindo horas de estudo em Desenvolvimento, estou focado em Javascript, React js, Typescript, Node js e outras diversas tecnologias que também serão importantes para a minha caminhada.
 
-Me considero muito esforçado, dedicado, otimista e com muita fome de vencer. Aprendo rápido e estou pronto para dar meu melhor e superar qualquer desafio!</p>
+Me considero muito esforçado, dedicado, otimista e com muita fome de vencer. Aprendo rápido e estou pronto para dar meu melhor!</p>
   
 <div align="left">
   <a href="mailto:kauaoliveira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
