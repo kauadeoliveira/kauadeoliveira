@@ -30,7 +30,6 @@ Me considero muito esforçado, dedicado, otimista e com muita vontade de vencer.
 
   
  
- 
 
  
   
