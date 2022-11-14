@@ -4,11 +4,7 @@
   <img align="right" width="30%" alt="gif-drako" display="block" src="https://cdn.discordapp.com/attachments/748549245115826336/990991878004572290/picasion.com_7502d8134d39a13dc92bd8e847a0e32d.gif">
 
 <br/>  
-  <p>Sou estudante de Programação desde novembro de 2021, tenho experiências com alguns projetos pessoais todos estão aqui no meu repositório do Github
-
-Sigo investindo horas de estudo em Desenvolvimento, estou focado em Javascript, React js, Typescript, Node js e outras diversas tecnologias que também serão importantes para a minha caminhada.
-
-Me considero muito esforçado, dedicado, otimista e com muita vontade de vencer. Aprendo rápido e estou pronto para dar meu melhor!</p>
+  <p>Sou estudante de Programação desde novembro de 2021, tenho experiências com alguns projetos pessoais todos estão aqui no meu repositório do Github</p>
   
 <div align="left">
   <a href="mailto:kauaoliveira.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
